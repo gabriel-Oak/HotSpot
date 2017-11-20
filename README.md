@@ -1,5 +1,5 @@
 # HotSpot
-Batch File to start a hotspot wifi
+Execute the batch file to start a hotspot wifi
 
 You can use 4 options in the main menu
 
