@@ -7,9 +7,9 @@ echo Bem Vindo Ao HotSpot 1.0
 echo         GitHub: oTrolado
 echo ________________________
 echo 1 - Iniciar rede generica
-echo 2 - Configurar A rede
+echo 2 - Configurar a rede
 echo 3 - Estatus da rede
-echo 4 - Reiniciar A rede
+echo 4 - Reiniciar a rede
 set /p choice=Escolha uma opcao: 
 
 if '%choice%' == '1' goto :choice1
