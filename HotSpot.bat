@@ -4,7 +4,7 @@ cls
 cls
 echo ________________________
 echo Bem Vindo Ao HotSpot 1.0
-echo         GitHub: oTrolado
+echo         GitHub: gabriel-Oak
 echo ________________________
 echo 1 - Iniciar rede generica
 echo 2 - Configurar a rede
